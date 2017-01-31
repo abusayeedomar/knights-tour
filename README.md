@@ -4,7 +4,7 @@
 Details: http://rosettacode.org/wiki/Knight%27s_tour
 
 ##Solution
-On an 8x8 board, there are plenty of closed tours (the knight ends on a square that is one knight's move from the beginning square). I used Symmetric (discovered by Carl Ferdinand von JÃ¤nisch) and, since the knight can walk by closed tour starting at any square, we can start at required point and visit every square only once
+On an 8x8 board, there are plenty of closed tours (the knight ends on a square that is one knight's move from the beginning square). I used Symmetric (discovered by Carl Ferdinand von JÃ¤nisch) and, since the knight can walk by closed tour starting at any square, we can start at required point and visit every square only once.
 
 ##Output
 Starting in 11 (A1). Then Knight goes 23 (B3)... 
