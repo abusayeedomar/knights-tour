@@ -15,4 +15,4 @@ Starting in 11 (A1). Then Knight goes 23 (B3)...
 `27 48 36 44 32 11 23 31 12 24 43 35 16 28 47 66 58 77 85 73 81 62 54 46 25 17 38 57 78 86 65 84 72 51 63 55 67 88 76 68 87 75 56 64 83 71 52 33 41 22 14 26 18 37 45 53 74 82 61 42 21 13 34 15`
 
 ##Credit
-Thanks to [Sa1Gur](https://github.com/Sa1Gur) for explaining Symmetric.
+Thanks to [Guriy Samarin](https://github.com/Sa1Gur) for explaining Symmetric.
